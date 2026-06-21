@@ -8,8 +8,8 @@ Systems: Linux, Windows Server, TCP/IP, Docker
 
 Projects
 
-🔐 [SISTEMA-CIFRADO-GPG] — Modular encrypted archiving system (PowerShell, GPG, AES-256) for personal data protection. Includes threat modeling, integrity verification and credential rotation.
-🎮 [rasterizador-software-c] — Software 3D rasterizer in C: full graphics pipeline, Phong lighting, bilinear textures.
+🔐 [SISTEMA-CIFRADO-GPG]  Modular encrypted archiving system (PowerShell, GPG, AES-256) for personal data protection. Includes threat modeling, integrity verification and credential rotation.
+🎮 [rasterizador-software-c]  Software 3D rasterizer in C: full graphics pipeline, Phong lighting, bilinear textures.
 
 
 <!---
